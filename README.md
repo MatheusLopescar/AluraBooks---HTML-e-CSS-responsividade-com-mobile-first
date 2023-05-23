@@ -11,14 +11,16 @@ Entre os principais tópicos e tecnologias abordadas (links inclusos de material
 
 * Layouts responsivos (versão mobile, tablet e deskptop);
 * O **[Reset CSS](https://www.alura.com.br/artigos/o-que-e-reset-css)** e sua importância;
-* **Reset CSS e Normalize CSS** - Diferenças e usos
+* **[Reset CSS e Normalize CSS](https://www.alura.com.br/artigos/o-que-e-reset-css)** - Diferenças e usos
 *  Trabalhando com o **DevTools** e sua importância para o desenvolvimento/responsividade
 *  Trabalhando com Figma e a importância dessa ferramenta de prototipagem
-*  Flexbox
-*  A propriedade **Position**
-*  Importação de Plugins, trabalhando com o **SwiperJS**
-*  - **Media Query** e sua importância na responsividade
-*  **Pseudo-classes**
+*  **[Flexbox](https://cursos.alura.com.br/extra/alura-mais/css-flexbox-dicas-para-comecar-c301)**
+*  A propriedade **[Position](https://www.alura.com.br/artigos/entenda-a-propriedade-position-css)**
+*  Importação de Plugins, trabalhando com o **[SwiperJS](https://swiperjs.com/)**
+*  **[Media Query](https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries)** e sua importância na responsividade
+*  **[Pseudo-classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)**
+
+A partir do desenvolvimento do projeto, com um desenvolvimento guiado, a pessoa instrutora foi introduzindo os conceitos acima mencionados de modo didático. 
 
 O projeto segue em desenvolvimento juntamente as aulas. Mas uma versão parcial já se encontra disponível.
 
@@ -28,6 +30,6 @@ Agradeço qualquer futuro comentário ou sugestão acerca do projeto, de modo a 
 
 **Autor: Matheus Lopes**
 
-**Pessoas Instrutoras: Rafa Ballerini e Gui Lima**
+**Pessoa Instrutora: Mônica Hillman**
 
 **Thumbnail gerada por ferramenta disponibilizada pela Alura [neste site](https://alurathumbnail.vercel.app/), feita por André Cunha.**
