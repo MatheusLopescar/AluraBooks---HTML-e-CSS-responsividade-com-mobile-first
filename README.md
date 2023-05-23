@@ -10,7 +10,7 @@ Ministrado pelas pessoa instrutora **Mônica Hillman** tendo como principal obje
 Entre os principais tópicos e tecnologias abordadas (links ao lado de material de apoio disponibilizado pelo curso):
 
 * Layouts responsivos (versão mobile, tablet e deskptop);
-* O **[Reset CSS](https://meyerweb.com/eric/tools/css/reset/ , https://www.alura.com.br/artigos/o-que-e-reset-css)** e sua importância;
+* O **[Reset CSS](https://www.alura.com.br/artigos/o-que-e-reset-css)** e sua importância;
 * **Reset CSS e Normalize CSS** - Diferenças e usos
 *  Trabalhando com o **DevTools** e sua importância para o desenvolvimento/responsividade
 *  Trabalhando com Figma e a importância dessa ferramenta de prototipagem
