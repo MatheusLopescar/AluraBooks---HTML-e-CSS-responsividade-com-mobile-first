@@ -36,6 +36,23 @@
     background-position: 1em;
 }
 
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+    background: transparent;
+ }
+ input:focus:-moz-placeholder { /* Firefox 18- */
+    color: transparent;
+    background: transparent;
+ }
+ input:focus::-moz-placeholder {  /* Firefox 19+ */
+    color: transparent;  
+    background: transparent;
+ }
+ input:focus:-ms-input-placeholder {  
+    color: transparent;
+    background: transparent;
+ }
+
 @media screen and (min-width: 1024px) {
 
     .banner__titulo {
@@ -47,7 +64,7 @@
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 7em;
+        background-position: 6em;
     }
 }
 
@@ -63,7 +80,7 @@
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 9.5em;
+        background-position: 8em;
     }
 
 
