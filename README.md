@@ -7,7 +7,7 @@ Ministrado pelas pessoa instrutora **Mônica Hillman** tendo como principal obje
 * Em 2022, a **Anatel** já detectou 234 milhões de acessos móveis à internet, um número extremamente considerável; de modo que ignorar a responsividade é impossível no desenvolvimento moderno;
 * Em 2015, o **Google** já priorizava no buscador dele, sites que se adaptassem a diversos tamanhos de telas. Sites responsivos, então, querendo abranger todo esse tipo de usuário e querendo um lugar melhor na busca. 
 
-Entre os principais tópicos e tecnologias abordadas (links ao lado de material de apoio disponibilizado pelo curso):
+Entre os principais tópicos e tecnologias abordadas (links inclusos de material de apoio disponibilizado pelo curso):
 
 * Layouts responsivos (versão mobile, tablet e deskptop);
 * O **[Reset CSS](https://www.alura.com.br/artigos/o-que-e-reset-css)** e sua importância;
