@@ -22,7 +22,7 @@ Entre os principais tópicos e tecnologias abordadas (links inclusos de material
 
 A partir do desenvolvimento do projeto, com um desenvolvimento guiado, a pessoa instrutora foi introduzindo os conceitos acima mencionados de modo didático. 
 
-O projeto apresenta-se **[neste link]**(https://matheuslopescar.github.io/AluraBooks---HTML-e-CSS-responsividade-com-mobile-first/), onde se utilizou o **Github Pages**.
+O projeto apresenta-se **[neste link](https://matheuslopescar.github.io/AluraBooks---HTML-e-CSS-responsividade-com-mobile-first/)**, onde foi hospedado pelo **Github Pages**.
 
 Agradeço à Escola Alura e a pessoa instrutora pela excelente introdução que permite até aos mais leigos (como eu) aprenderem com facilidade Desenvolvimento Web. :)
 
